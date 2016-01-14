@@ -926,6 +926,14 @@ a:visited {
   background-image: url("../assets/img/jennifer-lavoie.jpg");
 }
 
+#ann-lee-cover {
+  background-image: url("../assets/img/ann-lee-cover.jpg");
+}
+
+#ann-lee-card {
+  background-image: url("../assets/img/ann-lee.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
