@@ -934,6 +934,13 @@ a:visited {
   background-image: url("../assets/img/ann-lee.jpg");
 }
 
+#kirsten-ofarrell-cover {
+  background-image: url("../assets/img/kirsten-ofarrell-cover.jpg");
+}
+
+#kirsten-ofarrell-card {
+  background-image: url("../assets/img/kirsten-ofarrell.jpg");
+}
 .view-profile-div {
   position: absolute;
   bottom: 0;
