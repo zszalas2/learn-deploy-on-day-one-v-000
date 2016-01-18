@@ -138,6 +138,12 @@ a:visited {
 #aaron-enser-cover {
   background-image: url("../assets/img/aaron-enser-cover.JPG");
 }
+#hiral-desai-card{
+  background-image: url("../assets/img/hiral-desai.jpg");
+}
+#hiral-desai-cover{
+  background-image: url("../assets/img/hiral-desai-cover.jpg")
+}
 #andy-zheng-card {
   background-image: url("../assets/img/andy-zheng.jpg");
 }
@@ -817,7 +823,7 @@ a:visited {
 #edward-an-cover {
   background-image: url("../assets/img/edward-an-cover.jpg");
 }
- 
+
 #edward-an-card {
   background-image: url("../assets/img/edward-an.jpg");
 }
