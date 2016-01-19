@@ -190,6 +190,14 @@ a:visited {
   background-image: url("../assets/img/ed-karabinus.jpg");
 }
 
+#john-fewell-card {
+  background-image: url("../assets/img/john-fewell.jpg");
+}
+
+#john-fewell-cover {
+  background-image: url("../assets/img/john-fewell-cover.jpg");
+}
+
 #edgar-gonzalez-card {
   background-image: url("../assets/img/edgar-gonzalez.jpg");
 }
