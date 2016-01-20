@@ -934,6 +934,14 @@ a:visited {
   background-image: url("../assets/img/ann-lee.jpg");
 }
 
+#zach-newburgh-cover {
+  background-image: url("../assets/img/zach-newburgh-cover.jpg");
+}
+
+#zach-newburgh-card {
+  background-image: url("../assets/img/zach-newburgh.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
