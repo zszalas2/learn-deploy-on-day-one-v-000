@@ -972,6 +972,13 @@ a:visited {
   background-image: url("../assets/img/sean-liu-cover.jpg");
 }
 
+#sean-mulligan-cover {
+  background-image: url("../assets/img/sean-mulligan-cover.jpg");
+}
+
+#sean-mulligan-card {
+  background-image: url("../assets/img/sean-mulligan.jpg");
+}
 
 .view-profile-div {
   position: absolute;
