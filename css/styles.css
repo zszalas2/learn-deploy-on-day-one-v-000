@@ -611,6 +611,14 @@ a:visited {
   background-image: url("../assets/img/liz-denhup.jpg");
 }
 
+#gandhi-anderson-cover {
+  background-image: url("../assets/img/gandhi-anderson-cover.jpg")
+}
+
+#gandhi-anderson-card {
+  background-image: url("../assets/img/gandhi-anderson.png")
+}
+
 #grace-lee-cover {
   background-image: url("../assets/img/grace-lee-cover.jpg")
 }
