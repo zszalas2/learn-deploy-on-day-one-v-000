@@ -1011,6 +1011,14 @@ a:visited {
 #kirsten-ofarrell-card {
   background-image: url("../assets/img/kirsten-ofarrell.jpg");
 }
+#michael-perritano-cover {
+  background-image: url("../assets/img/michael-perritano-cover.jpg");
+}
+
+#michael-perritano-card {
+  background-image: url("../assets/img/michael-perritano.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
