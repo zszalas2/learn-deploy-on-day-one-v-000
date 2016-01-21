@@ -988,6 +988,14 @@ a:visited {
   background-image: url("../assets/img/alex-barron-cover.JPG");
 }
 
+#mark-stein-card {
+  background-image: url("../assets/img/mark-stein.jpg");
+}
+
+#mark-stein-cover {
+  background-image: url("../assets/img/mark-stein-cover.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
