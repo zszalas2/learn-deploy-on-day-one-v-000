@@ -980,6 +980,14 @@ a:visited {
   background-image: url("../assets/img/sean-mulligan.jpg");
 }
 
+#alex-barron-card {
+  background-image: url("../assets/img/alex-barron.jpg");
+}
+
+#alex-barron-cover {
+  background-image: url("../assets/img/alex-barron-cover.JPG");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
