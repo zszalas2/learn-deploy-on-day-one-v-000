@@ -300,6 +300,15 @@ a:visited {
   background-image: url("../assets/img/jason-mcelrath-cover.jpg");
 }
 
+#jason-southwell-card {
+  background-image: url("../assets/img/jason-southwell.jpg");
+}
+
+#jason-southwell-cover {
+  background-image: url("../assets/img/jason-southwell-cover.jpg");
+  background-position: center bottom;
+}
+
 #robert-cohen-card {
   background-image: url("../assets/img/robert-cohen.jpg");
 }
@@ -1205,6 +1214,7 @@ a:visited {
   margin-top: 15px;
   border-top: 1px dotted #85929d;
 }
+
 /* MEDIA QUERIES
 ======================== */
 @media only screen and (min-width: 480px) {
