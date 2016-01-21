@@ -964,6 +964,15 @@ a:visited {
   background-image: url("../assets/img/kevin-mccormack.jpg");
 }
 
+#sean-liu-card {
+  background-image: url("../assets/img/sean-liu.jpg");
+}
+
+#sean-liu-cover {
+  background-image: url("../assets/img/sean-liu-cover.jpg");
+}
+
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
