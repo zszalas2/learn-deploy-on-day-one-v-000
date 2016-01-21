@@ -956,6 +956,14 @@ a:visited {
   background-image: url("../assets/img/zach-newburgh.jpg");
 }
 
+#kevin-mccormack-cover {
+  background-image: url("../assets/img/kevin-mccormack-cover.jpg");
+}
+
+#kevin-mccormack-card {
+  background-image: url("../assets/img/kevin-mccormack.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
