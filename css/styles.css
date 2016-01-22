@@ -160,6 +160,14 @@ a:visited {
   background-image: url("../assets/img/brad-smith-cover.jpg");
 }
 
+#brian-menard-card{
+  background-image: url("../assets/img/brian-menard.jpg");
+}
+
+#brian-menard-cover{
+  background-image: url("../assets/img/brian-menard-cover.jpg");
+}
+
 #adrian-prieto-card {
   background-image: url("../assets/img/adrian-prieto.jpeg");
 }
