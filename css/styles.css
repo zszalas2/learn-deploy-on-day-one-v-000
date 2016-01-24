@@ -1044,6 +1044,14 @@ a:visited {
   background-image: url("../assets/img/michael-perritano.jpg");
 }
 
+#nick-stephenson-card {
+  background-image: url("../assets/img/nick-stephenson.jpg");
+}
+
+#nick-stephenson-cover {
+  background-image: url("../assets/img/nick-stephenson-cover.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
