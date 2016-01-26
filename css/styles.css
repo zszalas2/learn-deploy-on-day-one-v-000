@@ -1052,6 +1052,14 @@ a:visited {
   background-image: url("../assets/img/nick-stephenson-cover.jpg");
 }
 
+#kyle-davis-card {
+  background-image: url("../assets/img/kyle-davis.jpg");
+}
+
+#kyle-davis-cover {
+  background-image: url("../assets/img/kyle-davis-cover.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
