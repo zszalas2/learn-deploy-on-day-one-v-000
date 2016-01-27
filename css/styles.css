@@ -132,6 +132,14 @@ a:visited {
   height: 400px;
 }
 
+#eli-terry-cover {
+  background-image: url("../assets/img/eli-terry-cover.jpg");
+}
+
+#eli-terry-card {
+  background-image: url("../assets/img/eli-terry.jpg");
+}
+
 #aaron-enser-card{
   background-image: url("../assets/img/aaron-enser.jpg");
 }
