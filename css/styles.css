@@ -1084,6 +1084,14 @@ a:visited {
   background-image: url("../assets/img/kyle-davis-cover.jpg");
 }
 
+#chris-sexton-card {
+  background-image: url("../assets/img/chris-sexton.jpg");
+}
+
+#chris-sexton-cover {
+  background-image: url("../assets/img/chris-sexton-cover.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
