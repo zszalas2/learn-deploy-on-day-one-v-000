@@ -304,6 +304,14 @@ a:visited {
   background-image: url("../assets/img/james-novak-cover.jpg");
 }
 
+#luciano-krebs-card {
+  background-image: url("../assets/img/luciano-krebs.jpg");
+}
+
+#luciano-krebs-cover {
+  background-image: url("../assets/img/luciano-krebs-cover.jpg");
+}
+
 #james-novak-card {
   background-image: url("../assets/img/james-novak.jpg");
 }
