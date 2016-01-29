@@ -1100,6 +1100,14 @@ a:visited {
   background-image: url("../assets/img/chris-sexton-cover.jpg");
 }
 
+#will-saxe-profile {
+  background-image: url("../assets/img/will-saxe.jpg");
+}
+
+#will-saxe-cover {
+  background-image: url("../assets/img/will-saxe-cover.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
