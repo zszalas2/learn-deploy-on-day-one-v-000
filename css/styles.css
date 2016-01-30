@@ -1116,6 +1116,15 @@ a:visited {
   background-image: url("../assets/img/hudson-buzby-cover.jpeg");
 }
 
+#jim-lippman-card{
+  background-image: url("../assets/img/jim-lippman.jpg");
+
+}
+#jim-lippman-cover {
+  background-image: url("../assets/img/jim-lippman-cover.jpg");
+}
+
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
