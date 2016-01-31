@@ -460,6 +460,14 @@ a:visited {
   background-image: url("../assets/img/justin-thomas-cover.jpg");
 }
 
+#syed-lagoon-cover{
+  background-image: url("../assets/img/syed-lagoon-cover.jpg")
+}
+
+#syed-lagoon-card {
+  background-image: url("../assets/img/syed-lagoon.jpg");
+}
+
 #shmully-wolfson-cover{
   background-image: url("../assets/img/shmully-wolfson-cover.jpg")
 }
