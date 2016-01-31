@@ -13,6 +13,7 @@ html {
 
 body {
   font-family: "GothamPro", Helvetica, Arial, sans-serif;
+  overflow-x: hidden;
 }
 
 html, body {
@@ -1114,6 +1115,14 @@ a:visited {
 }
 #jim-lippman-cover {
   background-image: url("../assets/img/jim-lippman-cover.jpg");
+}
+
+#joshua-azemoh-card{
+  background-image: url("../assets/img/joshua-azemoh.jpg");
+
+}
+#joshua-azemoh-cover {
+  background-image: url("../assets/img/joshua-azemoh-cover.jpg");
 }
 
 
