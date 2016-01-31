@@ -1108,6 +1108,14 @@ a:visited {
   background-image: url("../assets/img/will-saxe-cover.jpg");
 }
 
+#hudson-buzby-card{
+  background-image: url("../assets/img/hudson-buzby-card.jpeg");
+}
+
+#hudson-buzby-cover {
+  background-image: url("../assets/img/hudson-buzby-cover.jpeg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
