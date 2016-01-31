@@ -1,3 +1,4 @@
+
 /* GLOBAL STYLES
 ======================== */
 
@@ -302,14 +303,6 @@ a:visited {
 
 #james-novak-cover {
   background-image: url("../assets/img/james-novak-cover.jpg");
-}
-
-#luciano-krebs-card {
-  background-image: url("../assets/img/luciano-krebs.jpg");
-}
-
-#luciano-krebs-cover {
-  background-image: url("../assets/img/luciano-krebs-cover.jpg");
 }
 
 #james-novak-card {
@@ -941,14 +934,6 @@ a:visited {
   background-image: url("../assets/img/julie-heyd.jpg");
 }
 
-#nicole-federici-card {
-  background-image: url("../assets/img/nicole-federici.jpg");
-}
-
-#nicole-federici-cover {
-  background-image: url("../assets/img/nicole-federici-cover.jpg");
-}
-
 #tony-st-nikolas-cover {
   background-image: url("../assets/img/tony-st-nikolas-cover.jpg");
 }
@@ -1092,20 +1077,12 @@ a:visited {
   background-image: url("../assets/img/kyle-davis-cover.jpg");
 }
 
-#chris-sexton-card {
-  background-image: url("../assets/img/chris-sexton.jpg");
+#john-wolfe-card{
+  background-image: url("../assets/img/john-wolfe.jpg");
 }
 
-#chris-sexton-cover {
-  background-image: url("../assets/img/chris-sexton-cover.jpg");
-}
-
-#will-saxe-profile {
-  background-image: url("../assets/img/will-saxe.jpg");
-}
-
-#will-saxe-cover {
-  background-image: url("../assets/img/will-saxe-cover.jpg");
+#john-wolfe-cover {
+  background-image: url("../assets/img/john-wolfe-cover.JPG");
 }
 
 .view-profile-div {
