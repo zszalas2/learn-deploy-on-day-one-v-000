@@ -1110,8 +1110,13 @@ a:visited {
   background-image: url("../assets/img/joshua-azemoh-cover.jpg");
 }
 
+#being-young-card {
+  background-image: url("../assets/img/being-young.png");
 
-
+}
+#being-young-cover {
+  background-image: url("../assets/img/being-young-cover.png");
+}
 
 .view-profile-div {
   position: absolute;
