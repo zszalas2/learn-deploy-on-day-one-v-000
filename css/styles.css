@@ -134,6 +134,14 @@ a:visited {
   height: 400px;
 }
 
+#yumei-leventhal-cover {
+  background-image: url("../assets/img/yumei-leventhal-cover.jpg");
+}
+
+#yumei-leventhal-card {
+  background-image: url("../assets/img/yumei-leventhal-card.jpg");
+}
+
 #eli-terry-cover {
   background-image: url("../assets/img/eli-terry-cover.jpg");
 }
@@ -1140,9 +1148,6 @@ a:visited {
 }
 
 
-
-
-
 #being-young-cover {
   background-image: url("../assets/img/being-young-cover.png");
 }
@@ -1264,7 +1269,7 @@ a:visited {
 
 .profile-quote {
   font-family: "GothamPro-Light", Helvetica, Arial, sans-serif;
-  font-size: 24px;
+  font-size: 22px;
   color: #85929d;
   width: 75%;
   margin: 0 auto;
