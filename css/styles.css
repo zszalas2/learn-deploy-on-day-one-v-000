@@ -1120,8 +1120,8 @@ a:visited {
 
 #being-young-card {
   background-image: url("../assets/img/being-young.png");
+}
 
-<<<<<<< HEAD
 #miranda-raymond-card {
   background-image: url("../assets/img/miranda-raymond.jpg");
 }
@@ -1141,12 +1141,12 @@ a:visited {
 
 
 
-=======
-}
+
+
 #being-young-cover {
   background-image: url("../assets/img/being-young-cover.png");
 }
->>>>>>> 11c72ef813b168f607bb02ac944b78a99a65107d
+
 
 .view-profile-div {
   position: absolute;
