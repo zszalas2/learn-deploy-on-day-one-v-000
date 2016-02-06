@@ -134,6 +134,14 @@ a:visited {
   height: 400px;
 }
 
+#jesse-lawson-cover {
+  background-image: url("../assets/img/jesse-cover.jpg");
+}
+
+#jesse-lawson-card {
+  background-image: url("../assets/img/jesse.jpg");
+}
+
 #yumei-leventhal-cover {
   background-image: url("../assets/img/yumei-leventhal-cover.jpg");
 }
