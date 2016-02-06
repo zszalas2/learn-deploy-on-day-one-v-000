@@ -134,6 +134,13 @@ a:visited {
   height: 400px;
 }
 
+#zoltan-szalas-card {
+  background-image: url("../assets/img/zoltan-szalas.jpg");
+}
+
+#zoltan-szalas-cover {
+  background-image: url("../assets/img/zoltan-szalas-cover.jpg");
+}
 #jesse-lawson-cover {
   background-image: url("../assets/img/jesse-cover.jpg");
 }
